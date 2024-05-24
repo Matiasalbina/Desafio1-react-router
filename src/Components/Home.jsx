@@ -6,7 +6,7 @@ export const Welcome = () => {
       <h1>Bienvenido a <strong>Happy Cake</strong></h1>
       <h5>El lugar de los pasteles felices</h5>
       <picture>
-        <img src="/images/icono.png" alt="icon" />
+        <img src="/images/pastel.png" alt="icon" />
       </picture>
     </div>
   )
