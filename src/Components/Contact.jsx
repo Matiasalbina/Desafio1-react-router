@@ -15,7 +15,7 @@ export function Contact() {
           </Form.Group>
           <Form.Group className="mb-3" controlId="exampleForm.ControlTextarea1">
             <Form.Label className='text-center'>Descripción</Form.Label>
-            <Form.Control as="textarea" rows={3} />
+            <Form.Control as="textarea" rows={5} />
           </Form.Group>
           <Button variant="danger">Enviar</Button>{' '}
         </Form>
